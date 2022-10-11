@@ -4,3 +4,12 @@
 [submodule "kernel"]
 	path = kernel
 	url = https://github.com/snekpit/kernel.git
+[submodule "toolchain"]
+	path = toolchain
+	url = git@github.com:snekpit/toolchain.git
+[submodule "plasma"]
+	path = plasma
+	url = git@github.com:snekpit/plasma.git
+[submodule "gnome"]
+	path = gnome
+	url = git@github.com:snekpit/gnome.git
